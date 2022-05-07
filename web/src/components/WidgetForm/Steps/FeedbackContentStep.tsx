@@ -45,7 +45,7 @@ export function FeedbackContentStep({
             focus:border-brand-500 focus:ring-brand-500 focus:ring-1 resize-none focus:outline-none 
             scrollbar scrollbar-thumb-zinc-700 scrollbar-track-thin scrollbar-track-transparent
             "
-          placeholder="Conte com detalhes o que está acontecendo..."
+          placeholder="Conte com detalhes o que está acontecendo.."
         />
         <footer className="flex gap-2 mt-2">
           <ScreenshotButton onScreenshotTook={setScreenshot} />
